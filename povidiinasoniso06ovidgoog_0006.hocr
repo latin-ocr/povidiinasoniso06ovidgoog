@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasoniso06ovidgoog_0006.png"; bbox 0 0 627 1092; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 112 361 495 479">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 112 361 495 479">
+     <span class='ocr_line' id='line_1_1' title="bbox 159 361 495 404; baseline 0.009 -2"><span class='ocrx_word' id='word_1_1' title='bbox 159 361 495 404; x_wconf 54' lang='lat' dir='ltr'>P.0V1D11&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 112 440 464 479; baseline 0.014 -5"><span class='ocrx_word' id='word_1_2' title='bbox 112 440 464 479; x_wconf 69' lang='lat' dir='ltr'><strong>NASONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 208 513 371 538">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 208 513 371 538">
+     <span class='ocr_line' id='line_1_3' title="bbox 208 513 371 538; baseline 0.012 -3"><span class='ocrx_word' id='word_1_3' title='bbox 208 513 371 538; x_wconf 86' lang='lat' dir='ltr'>OPERA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 139 572 439 593">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 139 572 439 593">
+     <span class='ocr_line' id='line_1_4' title="bbox 139 572 439 593; baseline 0.013 -4"><span class='ocrx_word' id='word_1_4' title='bbox 139 572 245 590; x_wconf 77' lang='lat' dir='ltr'><em>TOMUS</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 269 573 439 593; x_wconf 82' lang='lat' dir='ltr'><em>SECUNDUS.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
